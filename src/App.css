@@ -103,7 +103,7 @@ h1 {
 }
 
 .option-btn {
-  background: linear-gradient(145deg, #f0f0f0, #white);
+  background: linear-gradient(145deg, #f0f0f0,);
   border: 3px solid #ddd;
   border-radius: 20px;
   padding: 25px 20px;
